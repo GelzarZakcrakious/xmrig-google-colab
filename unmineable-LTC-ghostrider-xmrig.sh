@@ -1,0 +1,1 @@
+./xmrig -a gr -o stratum+ssl://ghostrider.unmineable.com:443 -u LTC:ltc1q2390p4psfs604w4k2aaahaftcfqwd2hvql4upd.unmineable_worker_hcgplgi#9orn-qafv -p x 
